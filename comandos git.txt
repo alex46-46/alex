@@ -1,0 +1,16 @@
+Sistema control de versiones.
+
+pwd => indica la ruta actual.
+cd <directorio> => ingresa a un directorio.
+cd .. => retorna un directorio.
+touch <archivo.extención> => crea un archivo.
+mkdir => crea una carpeta o un directorio.
+git init => inicializa un repositorio.
+git add <archivo> => agrega un archivo o directorio al area de preparación. Tambien llamado Staging.
+git commit -m => envía un archivo del staging al repositorio. 
+git log => muestra un historial de commits de un proyecto.
+git show => muestra el ultimo cambio en el proyeto.
+git branch <nombre_rama> => crea una rama.
+git merge <rama> => permite traer los cambios de una rama a otra.
+git checkout => permite visualizar el contenido de un commit.
+git status => muestra el estado del staging.
